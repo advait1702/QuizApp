@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_1">1. How many bones are there in the Adult Human Body?</string>
+    <string name="question_2">2. Which is the smallest organ in the human body?</string>
+    <string name="question_3">3. How many Cranial Nerves are there?</string>
+    <string name="question_4">4. Which is the Largest Bone in the Human Body?</string>
+    <string name="question_5">5. How many vertebrae are there in a Human Spine?</string>
+    <string name="pineal_gland">Pineal Gland</string>
+    <string name="pharynx">Pharynx</string>
+    <string name="_210">210</string>
+    <string name="_206">206</string>
+    <string name="_205">205</string>
+    <string name="ileum">Ileum</string>
+    <string name="_11">11</string>
+    <string name="_12">12</string>
+    <string name="_13">13</string>
+    <string name="humerus">Humerus</string>
+    <string name="femur">Femur</string>
+    <string name="fibula">Fibula</string>
+    <string name="_43">43</string>
+    <string name="_33">33</string>
+    <string name="_53">53</string>
+    <string name="submit">Submit</string>
+</resources>
